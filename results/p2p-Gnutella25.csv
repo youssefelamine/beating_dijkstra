@@ -1,0 +1,3 @@
+graph_type,n_nodes,n_sources,n_edges,run_id,algorithm,runtime,memory_peak,seed,extra_params
+p2p-Gnutella25,22687,1,54705,0,Dijkstra,0.11949912505224347,3937.927734375,0,dataset=p2p-Gnutella25
+p2p-Gnutella25,22687,1,54705,0,BMSSP,5.517832832993008,54610.359375,0,dataset=p2p-Gnutella25
