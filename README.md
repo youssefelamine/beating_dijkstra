@@ -28,7 +28,7 @@ This document provides the full evaluation of the BMSSP versus Dijkstra comparis
 
 ## Overview
 
-This project benchmarks **BMSSP** (Blelloch-Menon-Sun-Sun Shortest Path, via BMSSPy) against the classical **Dijkstra** algorithm across ten synthetic graph families and two large real-world networks. The core question: does BMSSP's theoretical O(m log^(2/3) n) complexity translate into practical speedups over Dijkstra's O(m + n log n)?
+This project benchmarks **BMSSP** against the classical **Dijkstra** algorithm across synthetic graph families and two large real-world networks. The core question: does BMSSP's theoretical O(m log^(2/3) n) complexity translate into practical speedups over Dijkstra's O(m + n log n)?
 
 The evaluation follows a multi-phase approach:
 
