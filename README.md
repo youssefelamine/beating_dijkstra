@@ -478,7 +478,7 @@ BMSSP's O(m log^(2/3) n) theoretical bound is asymptotically tighter than Dijkst
 
 | Limitation | Impact |
 |------------|--------|
-| Single machine (macOS, 8–16 GB RAM) | GPU/distributed systems may differ |
+| Single machine (macOS, 8 GB RAM) | GPU/distributed systems may differ |
 | BMSSPy may not be optimally implemented | A highly tuned C++/Rust version might reduce the gap, though 44–123× seems structural |
 | Graph classes tested are common but not exhaustive | Hyperbolic, temporal, or dynamic graphs omitted |
 | Comparison-addition model assumed | Additional preprocessing or radix structures might help BMSSP |
