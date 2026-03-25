@@ -1,4 +1,4 @@
-# Evaluation Report: BMSSP vs Dijkstra
+# BMSSP vs Dijkstra
 
 This document provides the full evaluation of the BMSSP versus Dijkstra comparison, organized by experimental phase. Each section references the specific plots produced and interprets the empirical findings against the theoretical expectations.
 
@@ -505,4 +505,3 @@ The theoretical O(m log^(2/3) n) bound is a tour-de-force of algorithm design, b
 
 ---
 
-*Generated from benchmark data in `results/`, plots in `plots/`. All numbers are means over 3 independent repetitions with fixed random seeds.*
